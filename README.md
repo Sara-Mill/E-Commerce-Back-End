@@ -61,7 +61,7 @@ SO THAT my company can compete with other e-commerce companies
   ## Demo
   ![image of demo screenshot:](./images/demo.png)
 
-  To watch the application in action, click [here](https://www.youtube.com/watch?v=TVF0M0UuMRI)
+  To watch the application in action, click [here](https://www.youtube.com/watch?v=TVF0M0UuMRI&t=6s)
 
   <a name = 'test'></a>
   ## Testing
