@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 # User Story
     AS A manager at an internet retail company
