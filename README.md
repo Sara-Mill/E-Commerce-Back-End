@@ -25,7 +25,7 @@ SO THAT my company can compete with other e-commerce companies
 
   <a name = 'usefaq'></a>
   ## Usage
-  This is a back end application to connet to MSQL database.  It uses Insomnia to view the CRUD operations in the database.
+  This is a back end application that connects to a MYSQL database.  It uses Insomnia to view the CRUD operations in the database.
 
   <a name = 'install'></a>
   ## Installation   
